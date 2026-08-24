@@ -1,2 +1,2 @@
 # Simon-says-game-
-Game
+Lets play >_<
