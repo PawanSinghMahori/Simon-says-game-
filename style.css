@@ -1,12 +1,13 @@
 body {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: paleturquoise;
 }
 
 .btn {
   height: 200px;
   width: 200px;
-  border-radius: 20%;
+  border-radius: 30%;
   border: 10px solid black;
   margin: 2.5rem;
 }
@@ -17,19 +18,19 @@ body {
 }
 
 .yellow {
-  background-color: #a6cee3;
+  background-color: yellow;
 }
 
 .red {
-  background-color: #1f78b4;
+  background-color: red;
 }
 
 .purple {
-  background-color: #B2DF8A;
+  background-color: orangered;
 }
 
 .green {
-  background-color: #33AC;
+  background-color: orange;
 }
 
 .flash {
