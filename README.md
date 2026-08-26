@@ -1,4 +1,5 @@
 # Simon-says-game-
 Lets play >_<
 
-# champion
+# Only for champions
+But u r not a champ.
