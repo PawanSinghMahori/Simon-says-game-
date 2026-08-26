@@ -1,13 +1,12 @@
 body {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: paleturquoise;
 }
 
 .btn {
   height: 200px;
   width: 200px;
-  border-radius: 30%;
+  border-radius: 45%;
   border: 10px solid black;
   margin: 2.5rem;
 }
@@ -22,7 +21,7 @@ body {
 }
 
 .red {
-  background-color: red;
+  background-color: darkred;
 }
 
 .purple {
@@ -33,10 +32,19 @@ body {
   background-color: orange;
 }
 
+.blue{
+  background-color: skyblue;
+}
+
+.violet{
+  background-color: violet;
+}
+
 .flash {
   background-color: white;
 }
 
+
 .userflash {
-  background-color: green;
+  background-color: whitesmoke;
 }
